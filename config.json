@@ -1,11 +1,11 @@
 {
-    "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
-    "radio_stream_url": "https://julycast.be/8232/stream.mp3",
-    "now_playing_text": "MCF 98.7FM",
+    "one_signal_id": "fd30b531-5e8c-4c5f-ab67-ecd065c58b81",
+    "radio_stream_url": "http://streamfi-impactfm1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
+    "now_playing_text": "Impact FM",
     "enable_autoplay": true,
     "ad_status": "1",
-    "banner_ad_id": "ca-app-pub-9523725970329735/1582777730",
+    "banner_ad_id": "ca-app-pub-9523725970329735/5528738478",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173000",
-    "native_ad_id": "ca-app-pub-9523725970329735/3418501959",
-    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642"
+    "native_ad_id": "ca-app-pub-9523725970329735/9226600471",
+    "app_open_ad_id": "ca-app-pub-9523725970329735/4900517666"
 }
